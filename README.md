@@ -1,6 +1,6 @@
-#Trial for practice
+# Trial for practice
 
-##How to create a working repository
+## How to create a working repository
 
 1. Create a folder in the explorer
 2. Open it on VS Code by clicking "Open folder"
